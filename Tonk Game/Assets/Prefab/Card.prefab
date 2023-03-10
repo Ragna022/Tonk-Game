@@ -67,7 +67,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 50f0fd8c4b1e4c74fa12f268e5824976, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 57965be4fdb6ce646bd10031d7967633, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -130,6 +130,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   img_Cards: {fileID: 2608388651209686207}
   gob_FrontCard: {fileID: 5370631293191047858}
+  scoreCards: 0
 --- !u!114 &4726755557556099891
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -144,6 +145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   img_Cards: {fileID: 2608388651209686207}
   gob_FrontCard: {fileID: 5370631293191047858}
+  scoreCards: 0
 --- !u!1 &5370631293191047858
 GameObject:
   m_ObjectHideFlags: 0
